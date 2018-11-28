@@ -7,7 +7,8 @@ npm install express body-parser --save // Installs the express.js http server fr
 									   // and then adds them to the dependencies section of package.json file.
 									   
 									   
-
+npm init --yes
+npm install request --save
 									   
 									  
 2: https://developers.facebook.com/docs/messenger-platform/getting-started/test-drive/?testdrive_messengerbot=true								   

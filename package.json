@@ -8,12 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/caonv1/webhook.git"
+    "url": "git+https://github.com/caonv1/webhook.git"
   },
   "author": "caonv1",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+  "bugs": {
+    "url": "https://github.com/caonv1/webhook/issues"
+  },
+  "homepage": "https://github.com/caonv1/webhook#readme",
+  "devDependencies": {},
+  "keywords": []
 }
