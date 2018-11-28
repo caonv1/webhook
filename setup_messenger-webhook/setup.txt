@@ -9,4 +9,6 @@ npm install express body-parser --save // Installs the express.js http server fr
 									   
 
 									   
-									   
+									  
+2: https://developers.facebook.com/docs/messenger-platform/getting-started/test-drive/?testdrive_messengerbot=true								   
+https://purple-panda-28.localtunnel.me
